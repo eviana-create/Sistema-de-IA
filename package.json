@@ -10,6 +10,7 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "lovable-tagger": "^1.1.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
